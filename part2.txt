@@ -191,7 +191,7 @@ data2 = {
 		],
 		60: [ans(rs('-\\infty',-3)+U()+is('-\\displaystyle\\frac{1}{3}',0,'\\displaystyle\\frac{1}{3}')+U()+sr(3,'+\\infty')),
 			ans(rs(1,25)),
-			ans(is(-3)+U()+sr(0,'\\displaystyle\\frac{3}{2}')+U()+rs('\\displaystyle\\frac{3}{2}',9))
+			ans(is(-3)+U()+sr(0,'\\displaystyle\\frac{3}{2}')+U()+rr('\\displaystyle\\frac{3}{2}',9))
 		],
 		61: [ans(rr('\\displaystyle\\frac{1}{12}','+\\infty')),ans(is(2))],
 		62: ["null","<br><i>На ДЗ 62 пока нет ответов</i>"],
